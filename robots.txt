@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cs-pikachuu.github.io/sitemap.xml

@@ -34,7 +34,7 @@ My current research focuses on building efficient and reliable machine learning 
 (ii) Large Language Models Towards Reasoning; 
 (iii) Deep Learning Theory;
 
-I was fortunate to cooperate with [Tianjin Huang](https://tianjinyellow.github.io/)@UOE, [Yufei Ding](https://picassolab.squarespace.com/yufei)@UCSD, [Zhenyu Zhang](https://zhenyu.gallery/)@UT-Austin (Atlas Wang - [VITA](https://vita-group.github.io/)) and [Kai Zhong](https://www.researchgate.net/scientific-contributions/Kai-Zhong-2196706297)@UESTC.
+I was fortunate to cooperate with [Zhenyu Zhang](https://zhenyu.gallery/)@UT-Austin (Atlas Wang - [VITA](https://vita-group.github.io/)), [Tianjin Huang](https://tianjinyellow.github.io/)@UOE, [Yufei Ding](https://picassolab.squarespace.com/yufei)@UCSD, [Sitao Huang](https://sitaohuang.com/) and [Kai Zhong](https://www.researchgate.net/scientific-contributions/Kai-Zhong-2196706297)@UESTC.
 
 You can find me through [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rIdbp9QAAAAJ), [Discord](https://discord.gg/uHQ6brs5) and [Gmail](haotianhu603@gmail.com).
 

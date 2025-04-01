@@ -5,7 +5,7 @@ My research focuses on hypothesis generation and machine learning systems, speci
 (ii) Large Language Models Towards Reasoning;
 (iii) Deep Learning Theory
 
-I was fortunate to cooperate with [Tianjin Huang](https://tianjinyellow.github.io/)@UOE,[Yufei Ding](https://picassolab.squarespace.com/yufei)@UCSD and [Zhenyu Zhang](https://zhenyu.gallery/)@UT-Austin (Atlas Wang[VITA](https://vita-group.github.io/)).
+I was fortunate to cooperate with [Tianjin Huang](https://tianjinyellow.github.io/)@UOE, [Yufei Ding](https://picassolab.squarespace.com/yufei)@UCSD, [Zhenyu Zhang](https://zhenyu.gallery/)@UT-Austin (Atlas Wang[VITA](https://vita-group.github.io/)) and [Kai Zhong](https://www.researchgate.net/scientific-contributions/Kai-Zhong-2196706297)@UESTC.
 
 You can find me through [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=rIdbp9QAAAAJ), [Discord](https://discord.gg/uHQ6brs5), [Gmail](haotianhu603@gmail.com) and [Wechat](doueverlovme_)
 

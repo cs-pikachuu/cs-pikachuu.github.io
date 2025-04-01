@@ -201,6 +201,7 @@ exclude:
   - _posts
   - readme_preview/
   - vendor
+  - _books/the_godfather.md
 keep_files:
   - CNAME
   - .nojekyll

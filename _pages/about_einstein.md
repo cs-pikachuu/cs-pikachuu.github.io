@@ -1,4 +1,4 @@
-I'm currently a first-year Machine Learning Ph.D. student at the Electrical and Computer Engineering Department of Georgia Institute of Technology, working with Prof.[Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I recieved my bachelor degree from University of Science and Technology of China, School of the Gifted Young. 
+I'm currently a first-year Machine Learning Ph.D. student at the Electrical and Computer Engineering Department of Georgia Institute of Technology, working with Prof.[Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I recieved my bachelor degree from University of Science and Technology of China, [School of the Gifted Young](https://sgy.ustc.edu.cn/mainm.htm). 
 
 My research focuses on hypothesis generation and machine learning systems, specifically in the following topics: 
 (i) Hypothesis generation with Large Language Models; 

@@ -198,6 +198,7 @@ exclude:
   - _pages/dropdown.md
   - purgecss.config.js
   - README.md
+  - _posts
   - readme_preview/
   - vendor
 keep_files:

@@ -2,7 +2,9 @@
 layout: post
 title: How to make most of my PhD
 date: 2025-04-2 
-description: an example of a blog post with twitter
+description: Record & Plan my PhD life
 tags: formatting
-categories: sample-posts external-services
+categories: PhD
 ---
+
+Before getting into how I'm going to manage my life, I want to set an overall 

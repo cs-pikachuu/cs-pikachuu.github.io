@@ -28,7 +28,11 @@
       "area": "School of the Gifted Young",
       "studyType": "Bachelor's Degree",
       "startDate": "2021-09-01",
-      "endDate": "2025-07-01"
+      "endDate": "2025-07-01",
+      "thesis": {
+        "title": "Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam",
+        "pdf": "assets/pdf/Haotian_Thesis.pdf"
+      }
     }
   ],
 "publications": [

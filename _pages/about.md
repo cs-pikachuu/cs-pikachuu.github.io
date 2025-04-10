@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This is Haotian Hu <span style="font-family: 'Kaiti SC', 'STKaiti', 'KaiTi', cursive;font-size: 1.3em">「胡皓天」</span>. I'm currently a first-year [Machine Learning Ph.D](https://ml.gatech.edu/phd). student at the Electrical and Computer Engineering Department of Georgia Institute of Technology, working with Prof.[Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I recieved my bachelor degree from University of Science and Technology of China, [School of the Gifted Young](https://sgy.ustc.edu.cn/mainm.htm). 
+This is Haotian Hu <span style="font-family: 'Kaiti SC', 'STKaiti', 'KaiTi', cursive;font-size: 1.3em">「胡皓天」</span>. I'm currently an incoming [Machine Learning Ph.D](https://ml.gatech.edu/phd). student at the Electrical and Computer Engineering Department of Georgia Institute of Technology, working with Prof.[Faramarz Fekri](https://fekri.ece.gatech.edu/). Previously, I recieved my bachelor degree from University of Science and Technology of China, [School of the Gifted Young](https://sgy.ustc.edu.cn/mainm.htm). 
 
 My current research focuses on building efficient and reliable machine learning systems, specifically in the following topics: 
 (i) Hypothesis generation with Large Language Models; 
